@@ -1,0 +1,6 @@
+site_name: AwesomeKnowledge
+site_url: https://awesomeknowledge.pages.dev/
+theme:
+  name: material
+nav:
+  - Inicio: index.md
