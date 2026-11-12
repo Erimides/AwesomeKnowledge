@@ -1,6 +1,15 @@
-site_name: AwesomeKnowledge
-site_url: https://awesomeknowledge.pages.dev/
+site_name: LibreThoth
+site_url: https://Librethoth.pages.dev/
 theme:
-  name: material
+   name: material
+   palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
 nav:
   - Inicio: index.md
