@@ -21,14 +21,16 @@ theme:
       - emoji_index: !!python/name:material.extensions.emoji.twemoji
       - emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
-- Inicio:     
+
+  - Inicio:     
       - Info General: index.md
       - Navegando: Empezar.md
-- Musica: 
-  - Streaming:
-    - Android:
-      - Metrolist: Metrolist.md
-      - Flow: Flow.md
-      - archiveTune: archiveTune.md
-      - Morphe YTM: MorpheYTM.md
+
+  - Musica: 
+    - Streaming:
+      - Android:
+        - Metrolist: Metrolist.md
+        - Flow: Flow.md
+        - archiveTune: archiveTune.md
+        - Morphe YTM: MorpheYTM.md
     
