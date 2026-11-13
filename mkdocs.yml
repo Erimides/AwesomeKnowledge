@@ -11,5 +11,24 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo oscuro
+    - markdown_extensions:
+      - admonition
+      - pymdownx.details
+      - pymdownx.superfences
+    - markdown_extensions:
+      - attr_list
+      - pymdownx.emoji:
+      - emoji_index: !!python/name:material.extensions.emoji.twemoji
+      - emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
-  - Inicio: index.md
+- Inicio:     
+      - Info General: index.md
+      - Navegando: Empezar.md
+- Musica: 
+  - Streaming:
+    - Android:
+      - Metrolist: Metrolist.md
+      - Flow: Flow.md
+      - archiveTune: archiveTune.md
+      - Morphe YTM: MorpheYTM.md
+    
