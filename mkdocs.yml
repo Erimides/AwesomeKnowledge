@@ -2,6 +2,9 @@ site_name: LibreThoth
 site_url: https://Librethoth.pages.dev/
 theme:
    name: material
+   features: 
+    - content.tooltips
+    - content.footnote.tooltips
    palette:
     - scheme: slate
       toggle:
@@ -15,22 +18,24 @@ theme:
       - admonition
       - pymdownx.details
       - pymdownx.superfences
-    - markdown_extensions:
       - attr_list
       - pymdownx.emoji:
       - emoji_index: !!python/name:material.extensions.emoji.twemoji
       - emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      - footnotes
+      - abbr
+      - pymdownx.snippets
+   
+
 nav:
 
   - Inicio:     
       - Info General: index.md
       - Navegando: Empezar.md
 
-  - Musica: 
-    - Streaming:
-      - Android:
-        - Metrolist: Metrolist.md
-        - Flow: Flow.md
-        - archiveTune: archiveTune.md
-        - Morphe YTM: MorpheYTM.md
+  - Indice:
+    - Privacidad y seguridad: privsec.md
+    - Peliculas y Series: MovieTV.md
+
+  
     
