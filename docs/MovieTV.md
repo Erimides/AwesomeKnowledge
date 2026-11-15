@@ -37,7 +37,7 @@
 
 ## Apps de Torrent
 
-- [Stremio](https://www.stremio.com/):desktop_computer:/[StremioCommunity](https://github.com/Zaarrg/stremio-community-v5)(full mpv) :window:/[StremioKai](https://allecsc.github.io/Stremio-Kai/):window:/[StremioEnchanced](https://github.com/REVENGE977/stremio-enhanced):desktop_computer:/[StremioWeb](https://web.stremio.com/):ship: Pronto tendrá su propia guía
+- :heart:[Stremio](https://www.stremio.com/):desktop_computer:/[StremioCommunity](https://github.com/Zaarrg/stremio-community-v5)(full mpv) :window:/[StremioKai](https://allecsc.github.io/Stremio-Kai/):window:/[StremioEnchanced](https://github.com/REVENGE977/stremio-enhanced):desktop_computer:/[StremioWeb](https://web.stremio.com/):ship: Pronto tendrá su propia guía
 
 - [Prowlarr](https://github.com/Prowlarr/Prowlarr),[Jackett](https://github.com/Jackett/Jackett),[Bobarr](https://github.com/iam4x/bobarr-v2)/- - [Nefarious](https://lardbit.github.io/nefarious/),[Traktarr](https://github.com/l3uddz/traktarr),[Flexget](https://flexget.com/) autodescargar torrents
 - [Radarr](https://radarr.video/) Autodescargar torrents de peliculas
