@@ -24,15 +24,17 @@
 - [Freedium](https://freedium-mirror.cfd/):ship: Sitio para saltarse las vallas de Medium
 - [wallabag](https://wallabag.org/):desktop_computer: Self hosted
 
-**Sobrepasar redirecciones**
 
-- [ Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated):ship: Sobrepasa todos los acortadores de links
-- [Evade](https://skipped.lol/) Sobrepasa todas las redirecciones de anuncios:ship:
 
 **Discord** :fontawesome-brands-discord:
 
 
 - [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) o [Discord-Adblock](https://codeberg.org/ridge/Discord-AdBlock) Esconden los anuncios sobre el nitro
+
+### **Sobrepasar redirecciones**
+
+- [ Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated):ship: Sobrepasa todos los acortadores de links
+- [Evade](https://skipped.lol/) Sobrepasa todas las redirecciones de anuncios:ship:
 
 ### Filtros 
 Se le agregan a uBO como una protección extra, advirtiendole de sitios maliciosos
