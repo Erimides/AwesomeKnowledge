@@ -35,4 +35,8 @@ Estos pueden ser instalados desde el administrador de extensiones del respectivo
 !!! info
     Esta info es solo para comenzar, mas adelante haremos una sección dedicada a extensiones o a navegadores y los veremos en profundidad.
 
+## Recomendaciones
 
+- Utilizar siempre un [e-mail tempora](temp-mail.org)
+- No utilizar contraseñas habituales ni repetir nombres de usuario  
+- No poner datos personales verdaderos

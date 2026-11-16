@@ -44,3 +44,9 @@ O para configuraciones y mucho más
 
 - :heart: = favorito del editor
 - :wink: = [jeje](https://www.youtube.com/watch?v=idqsQ0OD9ZI)
+---
+## creditos:
+
+- [FMHY](https://fmhy.net/) Inspiración principal a este proyecto, gracias por mantener un indice de buena calidad
+- [Viren070](https://github.com/Viren070) Gracias por escribir una guía tan completa
+- Todos aquellos que trabajan por el contenido libre y gratis para todos

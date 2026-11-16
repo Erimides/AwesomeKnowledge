@@ -31,6 +31,7 @@
 - [Hi10Anime](https://hi10anime.com/)
 - [Wotaku](https://wotaku.wiki/websites?t=download) Indice de sitios de descarga y streaming anime
 
+
 ## Apps de streaming
 
 - [Vyla Home](https://vyla.cc/products/home) :desktop_computer:
@@ -55,3 +56,9 @@
 - [EZTV](https://eztvx.to/)
 
 ### Anime
+- [Nyaa](https://nyaa.si/)
+- **herramientas nyaa** [funciones extra](https://github.com/Arad119/Nyaa-Enhancer)/[TUI](https://github.com/Beastwick18/nyaa)/[Descargador](https://github.com/marcpinet/nyaadownloader)/[Python](https://github.com/JuanjoSalvador/NyaaPy)/[torrent](https://github.com/daynum/nyaabag)/[animetosho](https://github.com/IONI0/Nyaa-AnimeTosho-Extender-ION-Fork)/[Etiquetas de calidad](https://seadex.moe/about/)
+
+- [hayase](https://hayase.watch/)
+- [seanime](https://seanime.app/)
+
