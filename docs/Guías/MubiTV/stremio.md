@@ -63,3 +63,30 @@ En esta guía todas las extensiones recomendadas seran de Torrent,
     - `#!python Exclude qualities:` Screener, Cam, si su dispositivo no es compatible con 4k entonces agregue 4k
     - `#!python Maximum results by per quality`  Dejar en blanco
     - `#!python Video size limit:` El limite de tamaño del video, opcional dependiendo de velocidad de internet y otros factores. 
+    - Clickear `#!python INSTALL` lo que abrirá o pedira abrir Stremio, se lo permitimos
+
+Mediante el desarrollo de LibreThoth nos ocuparemos de ampliar esta guía, por ahora queríamos mantenerla simple.
+
+### Catalogos
+Las extensiones que encuentran lo que queres ver
+
+??? TMDB
+    [Instalar](https://tmdb.elfhosted.com/configure/){ .md-button .md-button--primary style: color:red } 
+    
+    - Elegir lenguaje, e instalar. Se pueden hacer mas ajustes pero uno esta bien con lo prestablecido
+
+Recomiendo cambiar el orden de catalogos, poniendo a TMDB antes que cinemeta
+para eso utilizar esta [herramienta](https://addon-manager.viren070.me/) mantenida por Viren070, solo tienen que registrarse con su cuenta de stremio, cargar las extensiones y reordenarlas
+
+## Ahora que lo tengo todo preparado, como lo uso?
+
+- Paso 1: Abrir stremio
+- Paso 2: Buscar y entrar lo que le apetezca ver
+- Paso 3: Le saldran a la derecha cosas como "torrentio 1080p etc" fijarse el tamaño y las semillas, la relación entre estos dos factores decidira la velocidad. Creo que el resto es intuitivo, como por ejemplo los subtitlos
+
+!!! note
+    En caso de no encontrar subitutlos desde stremio directamente [subdivx](https://subdivx.com/) suele ser fiable
+
+
+!!! warning 
+    En Linux Stremio puede fallar, con bugs y crasheos como [este](https://github.com/Stremio/stremio-bugs/issues/2737) 
