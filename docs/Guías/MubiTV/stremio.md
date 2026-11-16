@@ -90,3 +90,5 @@ para eso utilizar esta [herramienta](https://addon-manager.viren070.me/) manteni
 
 !!! warning 
     En Linux Stremio puede fallar, con bugs y crasheos como [este](https://github.com/Stremio/stremio-bugs/issues/2737) 
+
+# Fin
