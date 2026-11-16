@@ -1,19 +1,16 @@
 site_name: LibreThoth
 site_url: https://Librethoth.pages.dev/
 theme:
-   name: material
-   features: 
+  palette:
+    scheme: slate
+  name: material
+    
+features: 
     - content.tooltips
     - content.footnote.tooltips
-   palette:
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Modo claro
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Modo oscuro
+  
+
+
     - markdown_extensions:
       - admonition
       - pymdownx.details
@@ -25,17 +22,25 @@ theme:
       - footnotes
       - abbr
       - pymdownx.snippets
+      - pymdownx.details
+      - pymdownx.highlight:
+      - anchor_linenums: true
+      - line_spans: __span
+      - pygments_lang_class: true
+      - pymdownx.inlinehilite
+
    
 
 nav:
 
-  - Inicio:     
-      - Info General: index.md
-      - Navegando: Empezar.md
-
+  - Inicio: index.md
   - Indice:
-    - Privacidad y seguridad: privsec.md
-    - Peliculas y Series: MovieTV.md
-
+    - Privacidad y seguridad: Indice/privsec.md
+    - Peliculas y Series: Indice/MovieTV.md
+  - Guías:
+     - Navegación Básica: Guías/NavBasik.md
+     - Github y otros: Guías/installfromrepo.md
+     - Peliculas y series:
+        - Stremio: Guías/MubiTV/stremio.md
   
     

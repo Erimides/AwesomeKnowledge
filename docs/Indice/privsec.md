@@ -68,6 +68,9 @@ Se le agregan a uBO como una protección extra, advirtiendole de sitios malicios
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) :heart:  
 
 ### VPN
+!!! info
+    Camuflan la IP haciendo seguro torrentear sin riesgo de filtraciones de datos que puedan ser utilizados por "hackers" :wink:
+    Léa con atención antes de pagar una VPN o registrarse para asegurarse de que sea compatible con lo que usted quiera, por ejemplo no todas le protegen al utilizar torrents.
 
 - [TechloreVPNChart](https://vpn.techlore.tech/) cuadro comparativo de VPNs
 - [Cloudflare One](https://one.one.one.one/) Gratis/Ilimitado 

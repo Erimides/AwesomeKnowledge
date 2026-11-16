@@ -43,3 +43,4 @@ O para configuraciones y mucho más
     * **+** :apple: = Para iOS
 
 - :heart: = favorito del editor
+- :wink: = [jeje](https://www.youtube.com/watch?v=idqsQ0OD9ZI)
